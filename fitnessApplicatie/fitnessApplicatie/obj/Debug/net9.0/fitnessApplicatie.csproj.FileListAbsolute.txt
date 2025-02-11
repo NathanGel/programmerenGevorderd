@@ -1,0 +1,14 @@
+C:\Users\natha\AcademieJaar24-25\Programmeren\portfolio_24-25\fitnessApplicatie\fitnessApplicatie\bin\Debug\net9.0\fitnessApplicatie.exe
+C:\Users\natha\AcademieJaar24-25\Programmeren\portfolio_24-25\fitnessApplicatie\fitnessApplicatie\bin\Debug\net9.0\fitnessApplicatie.deps.json
+C:\Users\natha\AcademieJaar24-25\Programmeren\portfolio_24-25\fitnessApplicatie\fitnessApplicatie\bin\Debug\net9.0\fitnessApplicatie.runtimeconfig.json
+C:\Users\natha\AcademieJaar24-25\Programmeren\portfolio_24-25\fitnessApplicatie\fitnessApplicatie\bin\Debug\net9.0\fitnessApplicatie.dll
+C:\Users\natha\AcademieJaar24-25\Programmeren\portfolio_24-25\fitnessApplicatie\fitnessApplicatie\bin\Debug\net9.0\fitnessApplicatie.pdb
+C:\Users\natha\AcademieJaar24-25\Programmeren\portfolio_24-25\fitnessApplicatie\fitnessApplicatie\obj\Debug\net9.0\fitnessApplicatie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\AcademieJaar24-25\Programmeren\portfolio_24-25\fitnessApplicatie\fitnessApplicatie\obj\Debug\net9.0\fitnessApplicatie.AssemblyInfoInputs.cache
+C:\Users\natha\AcademieJaar24-25\Programmeren\portfolio_24-25\fitnessApplicatie\fitnessApplicatie\obj\Debug\net9.0\fitnessApplicatie.AssemblyInfo.cs
+C:\Users\natha\AcademieJaar24-25\Programmeren\portfolio_24-25\fitnessApplicatie\fitnessApplicatie\obj\Debug\net9.0\fitnessApplicatie.csproj.CoreCompileInputs.cache
+C:\Users\natha\AcademieJaar24-25\Programmeren\portfolio_24-25\fitnessApplicatie\fitnessApplicatie\obj\Debug\net9.0\fitnessApplicatie.dll
+C:\Users\natha\AcademieJaar24-25\Programmeren\portfolio_24-25\fitnessApplicatie\fitnessApplicatie\obj\Debug\net9.0\refint\fitnessApplicatie.dll
+C:\Users\natha\AcademieJaar24-25\Programmeren\portfolio_24-25\fitnessApplicatie\fitnessApplicatie\obj\Debug\net9.0\fitnessApplicatie.pdb
+C:\Users\natha\AcademieJaar24-25\Programmeren\portfolio_24-25\fitnessApplicatie\fitnessApplicatie\obj\Debug\net9.0\fitnessApplicatie.genruntimeconfig.cache
+C:\Users\natha\AcademieJaar24-25\Programmeren\portfolio_24-25\fitnessApplicatie\fitnessApplicatie\obj\Debug\net9.0\ref\fitnessApplicatie.dll
