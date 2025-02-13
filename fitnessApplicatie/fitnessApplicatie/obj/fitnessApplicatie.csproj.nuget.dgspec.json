@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\natha\\AcademieJaar24-25\\Programmeren\\portfolio_24-25\\fitnessApplicatie\\fitnessApplicatie\\fitnessApplicatie.csproj": {}
+    "C:\\Users\\natha\\programmerenGevorderd\\programmerenGevorderd\\fitnessApplicatie\\fitnessApplicatie\\fitnessApplicatie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\natha\\AcademieJaar24-25\\Programmeren\\portfolio_24-25\\fitnessApplicatie\\fitnessApplicatie\\fitnessApplicatie.csproj": {
+    "C:\\Users\\natha\\programmerenGevorderd\\programmerenGevorderd\\fitnessApplicatie\\fitnessApplicatie\\fitnessApplicatie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\natha\\AcademieJaar24-25\\Programmeren\\portfolio_24-25\\fitnessApplicatie\\fitnessApplicatie\\fitnessApplicatie.csproj",
+        "projectUniqueName": "C:\\Users\\natha\\programmerenGevorderd\\programmerenGevorderd\\fitnessApplicatie\\fitnessApplicatie\\fitnessApplicatie.csproj",
         "projectName": "fitnessApplicatie",
-        "projectPath": "C:\\Users\\natha\\AcademieJaar24-25\\Programmeren\\portfolio_24-25\\fitnessApplicatie\\fitnessApplicatie\\fitnessApplicatie.csproj",
+        "projectPath": "C:\\Users\\natha\\programmerenGevorderd\\programmerenGevorderd\\fitnessApplicatie\\fitnessApplicatie\\fitnessApplicatie.csproj",
         "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\natha\\AcademieJaar24-25\\Programmeren\\portfolio_24-25\\fitnessApplicatie\\fitnessApplicatie\\obj\\",
+        "outputPath": "C:\\Users\\natha\\programmerenGevorderd\\programmerenGevorderd\\fitnessApplicatie\\fitnessApplicatie\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
